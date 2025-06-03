@@ -3,7 +3,7 @@
 """Package entry point."""
 
 
-from {{cookiecutter.package_name}}.cli import main
+from {{cookiecutter.package_slug}}.cli import main
 
 
 if __name__ == '__main__':  # pragma: no cover
